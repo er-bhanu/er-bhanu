@@ -1,7 +1,6 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=WELCOME+EVERYONE+😈)](https://github.com/er-bhanu)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
-
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
 <h3 align="center">Developer</h3>
 
